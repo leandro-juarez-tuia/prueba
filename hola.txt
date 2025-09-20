@@ -1,2 +1,4 @@
 hola mundo
 el mundo a vivido equivocado
+
+estoy aprendiendo a usar github
